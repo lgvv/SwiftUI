@@ -58,9 +58,9 @@
 				B1C83F9527D51DA30036D054 /* LandmarksApp.swift */,
 				B1C83F9727D51DA30036D054 /* ContentView.swift */,
 				B1C83FA327D52B180036D054 /* CircleImage.swift */,
+				B1C83FA527D52D0E0036D054 /* MapView.swift */,
 				B1C83F9927D51DA50036D054 /* Assets.xcassets */,
 				B1C83F9B27D51DA50036D054 /* Preview Content */,
-				B1C83FA527D52D0E0036D054 /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
