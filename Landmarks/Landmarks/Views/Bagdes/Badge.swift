@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+import SwiftUI
+
 struct Badge: View {
     var badgeSymbols: some View {
         ForEach(0..<8) { index in
