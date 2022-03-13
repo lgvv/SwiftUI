@@ -140,7 +140,6 @@
 				B1C83FB027D6390A0036D054 /* Resources */,
 				B1C83F9927D51DA50036D054 /* Assets.xcassets */,
 				B1C83F9B27D51DA50036D054 /* Preview Content */,
-				B1D99C2227DBB05200C2CEC8 /* PageView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -164,6 +163,7 @@
 				B1D99C1D27DBABCB00C2CEC8 /* Profiles */,
 				B1D99C1E27DBAC1500C2CEC8 /* PageViewController.swift */,
 				B1D99C2027DBAECA00C2CEC8 /* FeatureCard.swift */,
+				B1D99C2227DBB05200C2CEC8 /* PageView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
