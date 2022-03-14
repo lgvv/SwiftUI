@@ -82,6 +82,7 @@
 		B1DF204C27DF438C0089F92B /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D89BF827D9BB2C00EE930B /* Hike.swift */; };
 		B1DF204D27DF438C0089F92B /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1C83FB127D65F860036D054 /* LandmarkRow.swift */; };
 		B1DF204F27DF48520089F92B /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DF204E27DF48520089F92B /* LandmarkDetail.swift */; };
+		B1DF205127DF625F0089F92B /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DF205027DF625F0089F92B /* LandmarkCommands.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -182,6 +183,7 @@
 		B1DF203B27DF34570089F92B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1DF203D27DF34570089F92B /* MacLandmarks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MacLandmarks.entitlements; sourceTree = "<group>"; };
 		B1DF204E27DF48520089F92B /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
+		B1DF205027DF625F0089F92B /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -399,6 +401,7 @@
 			children = (
 				B1DF203627DF34560089F92B /* ContentView.swift */,
 				B1DF204E27DF48520089F92B /* LandmarkDetail.swift */,
+				B1DF205027DF625F0089F92B /* LandmarkCommands.swift */,
 				B1DF203827DF34570089F92B /* Assets.xcassets */,
 				B1DF203D27DF34570089F92B /* MacLandmarks.entitlements */,
 				B1DF203A27DF34570089F92B /* Preview Content */,
@@ -647,6 +650,7 @@
 				B1DF204827DF438C0089F92B /* MapView.swift in Sources */,
 				B1DF204927DF438C0089F92B /* Profile.swift in Sources */,
 				B1DF203727DF34560089F92B /* ContentView.swift in Sources */,
+				B1DF205127DF625F0089F92B /* LandmarkCommands.swift in Sources */,
 				B1DF204F27DF48520089F92B /* LandmarkDetail.swift in Sources */,
 				B1DF204127DF438C0089F92B /* FavoriteButton.swift in Sources */,
 				B1DF204B27DF438C0089F92B /* LandmarksApp.swift in Sources */,
