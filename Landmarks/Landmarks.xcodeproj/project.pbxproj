@@ -398,10 +398,10 @@
 			isa = PBXGroup;
 			children = (
 				B1DF203627DF34560089F92B /* ContentView.swift */,
+				B1DF204E27DF48520089F92B /* LandmarkDetail.swift */,
 				B1DF203827DF34570089F92B /* Assets.xcassets */,
 				B1DF203D27DF34570089F92B /* MacLandmarks.entitlements */,
 				B1DF203A27DF34570089F92B /* Preview Content */,
-				B1DF204E27DF48520089F92B /* LandmarkDetail.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
