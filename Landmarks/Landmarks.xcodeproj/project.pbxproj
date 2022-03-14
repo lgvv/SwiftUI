@@ -42,6 +42,7 @@
 		B1D99C1F27DBAC1500C2CEC8 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D99C1E27DBAC1500C2CEC8 /* PageViewController.swift */; };
 		B1D99C2127DBAECA00C2CEC8 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D99C2027DBAECA00C2CEC8 /* FeatureCard.swift */; };
 		B1D99C2327DBB05200C2CEC8 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D99C2227DBB05200C2CEC8 /* PageView.swift */; };
+		B1DF1FF327DF14A00089F92B /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DF1FF227DF149F0089F92B /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		B1D99C1E27DBAC1500C2CEC8 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		B1D99C2027DBAECA00C2CEC8 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		B1D99C2227DBB05200C2CEC8 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		B1DF1FF227DF149F0089F92B /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				B1C83FB027D6390A0036D054 /* Resources */,
 				B1C83F9927D51DA50036D054 /* Assets.xcassets */,
 				B1C83F9B27D51DA50036D054 /* Preview Content */,
+				B1DF1FF227DF149F0089F92B /* PageControl.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				B1C83FA627D52D0E0036D054 /* MapView.swift in Sources */,
 				B1D89BFF27D9BD3F00EE930B /* GraphCapsule.swift in Sources */,
 				B1C83F9627D51DA30036D054 /* LandmarksApp.swift in Sources */,
+				B1DF1FF327DF14A00089F92B /* PageControl.swift in Sources */,
 				B1567B0D27D8BBC8004ABBFD /* FavoriteButton.swift in Sources */,
 				B1D89C0827D9DD8D00EE930B /* CategoryItem.swift in Sources */,
 				B1D89C0127D9BD3F00EE930B /* HikeDetail.swift in Sources */,
