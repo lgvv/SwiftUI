@@ -8,4 +8,4 @@
   
 * Git-flow를 연습하는 repository입니다.
   * [Git-flow 정리문서](https://rldd.tistory.com/450) 
-  * reabse를 알아보기 위해서 develop 커밋을 위로 올립니다.
+  * reabse를 알아보기 위해서 develop 커밋을 위로 올립니다. (develop 브랜치에 커밋을 하나 더 추가합니다.)
