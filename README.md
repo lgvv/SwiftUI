@@ -7,7 +7,6 @@
   
   
 * Git-flow를 연습하는 repository입니다.
+  * 여기에서 사용하는 Git-flow는 Kuring앱 개발에서 적용한 Git-flow입니다. 
   * [Git-flow 정리문서](https://rldd.tistory.com/450) 
-  * rebase를 공부하기 위해서 rebaseB 브랜치를 생성합니다. (커밋 내역을 하나 더 추가합니다.)
-  * rebase를 공부하기 위해서 rebaseA 브랜치를 생성합니다. (커밋 내역 하나를 추가합니다.)
-  * [기록] rebase 예시를 잘못 만들었습니다. rebase 사용에 대해서는 잘 수행했으나, git flow상 의도한 바가 아니라 다시 작성합니다.
+  * 위의 링크를 참고하시면, Kuring git 관리에 대한 내용을 확인하실 수 있습니다.
