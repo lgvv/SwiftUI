@@ -7,3 +7,4 @@
   
   
 * Git-flow를 연습하는 repository입니다.
+  * [Git-flow 정리문서](https://rldd.tistory.com/450) 
