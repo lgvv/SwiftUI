@@ -8,5 +8,5 @@
   
 * Git-flow를 연습하는 repository입니다.
   * [Git-flow 정리문서](https://rldd.tistory.com/450) 
-  * rebase를 공부하기 위해서 rebaseB 브랜치를 생성합니다. 
+  * rebase를 공부하기 위해서 rebaseB 브랜치를 생성합니다. (커밋 내역을 하나 더 추가합니다.)
 
