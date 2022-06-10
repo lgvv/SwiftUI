@@ -10,3 +10,4 @@
   * [Git-flow 정리문서](https://rldd.tistory.com/450) 
   
   * rebase를 공부하기 위해서 rebaseA 브랜치를 생성합니다. (커밋 내역 하나를 추가합니다.)
+  * [기록] rebase 예시를 잘못 만들었습니다. rebase 사용에 대해서는 잘 수행했으나, git flow상 의도한 바가 아니라 다시 작성합니다.
